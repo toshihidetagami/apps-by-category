@@ -28,6 +28,7 @@
 
 ###  Browser
 
+- [atlas-engineer/next](https://github.com/atlas-engineer/next) - Next Browser - Be Productive. 
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
 ###  Business
@@ -115,10 +116,14 @@
 
 - [gamonoid/icehrm](https://github.com/gamonoid/icehrm) - Manage your employees easily with a robust and efficient Human Resource Management System
 
-###  journalism 
+###  Journalism 
 
 - [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol.
 - [globaleaks/GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - GlobaLeaks - The Open-Source Whistleblowing Software
+
+###  Mail
+
+- [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - An extensible desktop mail app built on the modern web.
 
 ###  Map
 
@@ -134,6 +139,8 @@
 - [acani/Chats](https://github.com/acani/Chats) - Open-Source Messaging App
 - [FirebaseExtended/firechat](https://github.com/FirebaseExtended/firechat) - Real-time Chat powered by Firebase
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging server; backend in Go; Android, web command line clients; chatbots
+- [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
+
 
 ####  Messaging(XMPP)
 - [siacs/Conversations](https://github.com/siacs/Conversations) - Conversations is an open source XMPP/Jabber client for the Android platform
@@ -144,6 +151,7 @@
 ###  Music
 
 - [samaaron/sonic-pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone
+- [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 
 ###  News
 
@@ -209,6 +217,15 @@
 ###  Tool 
 
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+- [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+- [wulkano/kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - Log what you do on your computer.
+- [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome
+- [cassidoo/todometer](https://github.com/cassidoo/todometer) - A meter-based to-do list 
+- [alexanderepstein/Sandman](https://github.com/alexanderepstein/Sandman) - An Application Built With Late Night Developers In Mind 
+- [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder.
+- [claudiodangelis/qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 
 ###  Travel
 
@@ -234,6 +251,33 @@
 ###  Video
 
 - [dtube/dtube](https://github.com/dtube/dtube) - DTube App
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
+- [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. 
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - Video player based on MPlayer/mplayer2
+- [insidegui/WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS 
+- [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 audio or video player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API
+- [video-dev/hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A lightweight Youtube frontend for Android. 
+- [MoePlayer/DPlayer](https://github.com/MoePlayer/DPlayer) - Wow, such a lovely HTML5 danmaku video player 
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
+
+####  Video Editing
+
+- [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
+
+####  Video downloader
+
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites   
+- [iawia002/annie](https://github.com/iawia002/annie) - Fast, simple and clean video downloader
+
+####  Video call
+
+- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+
+####  Subtitle
+
+- [smacke/subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
 
 ###  Volunteer
 
@@ -255,3 +299,5 @@
 ## Contributing
 
 Issues and pull requests are welcome
+
+
