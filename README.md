@@ -34,6 +34,8 @@
 ###  Business
 
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business. 
+- [freeCodeCamp/meeting-for-good](https://github.com/freeCodeCamp/meeting-for-good) - A meeting coordination app for your team
+- [freeCodeCamp/conference-for-good](https://github.com/freeCodeCamp/conference-for-good) - An open source conference management tool
 
 ###  Calculator
 
@@ -76,6 +78,7 @@
 - [studentinsights/studentinsights](https://github.com/studentinsights/studentinsights) - We work within school communities to make open, secure, student-centered data systems.
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki on Android
 - [dae/anki](https://github.com/dae/anki) - Anki for desktop computers
+- [oppia/oppia](https://github.com/oppia/oppia) - Tool for collaboratively building interactive lessons. 
 
 #### Education(LMS)
 - [edx/edx-platform](https://github.com/edx/edx-platform) - The Open edX platform, the software that powers edX! 
@@ -90,6 +93,10 @@
  
 - [fluidtrends/carmel](https://github.com/fluidtrends/carmel) - The Open Source Decentralized Tech Education Platform 
 
+###  Environment
+
+- [opendatakit/collect](https://github.com/opendatakit/collect) - ODK Collect is an Android app for filling out forms. It's been used to collect billions of data points in challenging environments around the world. Contribute and make the world a better place!
+
 ###  ERP
 
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Open Source ERP built for the web
@@ -103,6 +110,9 @@
 - [fullstackreact/food-lookup-demo](https://github.com/fullstackreact/food-lookup-demo) - A demonstration of using `create-react-app` with a server
 - [prakhar1989/FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - San Francisco's finger-licking street food now at your fingertips.
 - [Growstuff/growstuff](https://github.com/Growstuff/growstuff) - Open data project for small-scale food growers
+- [freeCodeCamp/pantry-for-good](https://github.com/freeCodeCamp/pantry-for-good) - An open source food bank logistics and inventory management tool
+- [yunity/karrot-frontend](https://github.com/yunity/karrot-frontend) - Web application for organization of foodsaving groups worldwide - frontend code and central location for feature planning.
+- [gabrielilharco/snap-n-eat](https://github.com/gabrielilharco/snap-n-eat) - Food detection and recommendation with deep learning
 
 ###  Game
 
@@ -111,6 +121,10 @@
 ###  Health
 
 - [openemr/openemr](https://github.com/openemr/openemr) - OpenEMR is the most popular open source electronic health records and medical practice management solution. 
+- [cpfair/tapiriik](https://github.com/cpfair/tapiriik) - tapiriik keeps your fitness in sync
+- [Flaque/quirk](https://github.com/Flaque/quirk) - A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
+- [ifmeorg/ifme](https://github.com/ifmeorg/ifme) - Open source app to share mental health experiences with loved ones
+- [petrk94/ownhealthrecord](https://github.com/petrk94/ownhealthrecord) - This repository is about the OwnHealthRecord Application Web App
 
 ###  Human Resource
 
@@ -124,6 +138,7 @@
 ###  Mail
 
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - An extensible desktop mail app built on the modern web.
+- [freeCodeCamp/mail-for-good](https://github.com/freeCodeCamp/mail-for-good) - An open source email campaign management tool for nonprofits
 
 ###  Map
 
@@ -150,8 +165,27 @@
 
 ###  Music
 
+- [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser. 
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger 
 - [samaaron/sonic-pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
+- [danigb/tonal](https://github.com/danigb/tonal) - A functional music theory library for Javascript
+- [kennethreitz/pytheory](https://github.com/kennethreitz/pytheory) - Music Theory for Humans.
+
+### Music player
+
+- [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server that plays music from local disk, Spotify, SoundCloud, Google Play Music, and more.
+- [MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - A beautiful cross platform Desktop Player for Google Play Music
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Desktop music player for streaming from free sources 
+- [naman14/Timber](https://github.com/naman14/Timber) - Material Design Music Player
+- [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
+- [harjot-oberai/MusicDNA](https://github.com/harjot-oberai/MusicDNA) - A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.
+- [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+- [jakubroztocil/cloudtunes](https://github.com/jakubroztocil/cloudtunes) - Web-based music player for the cloud ☁️ 🎶 Play music from YouTube, Dropbox, etc. 
+- [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
+- [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox) 
+- [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
+
 
 ###  News
 
@@ -175,9 +209,23 @@
 - [iSimar/HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - Hacker News iOS and Android App - Made with React Native. 
 - [grp/newsyc](https://github.com/grp/newsyc) - An iPhone Hacker News client
 
+###  Nonprofit
+
+- [OperationCode/START_HERE](https://github.com/OperationCode/START_HERE) - This repo outlines how to get started contributing to Operation Code, each of our projects, the language they are written in, and their purpose.
+
 ###  Open source
 
 - [utopian-io/colony](https://github.com/utopian-io/colony) - Utopian Colony is a platform for open source collaboration, home to all digital professionals with a passion for open source innovation. 
+
+###  Photography
+
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
+- [jdisho/Papr](https://github.com/jdisho/Papr) - An Unsplash app for iOS
+- [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web.
+- [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
+- [thumbsup/thumbsup](https://github.com/thumbsup/thumbsup) - Generate static HTML photo / video galleries
+- [rampatra/photography](https://github.com/rampatra/photography) -　A free online portfolio website to showcase your works. 
+- [philipptrenz/photo-booth](https://github.com/philipptrenz/photo-booth) - A multi-platform photo booth software using Electron and your camera
 
 ###  Presentations
 
@@ -186,6 +234,11 @@
 ###  Q&A
 
 - [ASKBOT/askbot-devel](https://github.com/ASKBOT/askbot-devel) - Askbot is a Django/Python Q&A forum.
+
+###  Radio
+
+- [analogcode/Swift-Radio-Pro](https://github.com/analogcode/Swift-Radio-Pro) - Professional Radio Station App - now supports Swift 4 / Xcode 9!
+- [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 
 ###  Religion
 
@@ -213,6 +266,13 @@
 - [syuilo/misskey](https://github.com/syuilo/misskey) - A federated blogging platform
 - [sindresorhus/refined-twitter](https://github.com/sindresorhus/refined-twitter) - Browser extension that simplifies the Twitter interface and adds useful features
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
+
+###  Sports
+
+- [freeCodeCamp/league-for-good](https://github.com/freeCodeCamp/league-for-good) - An open source sports league management tool
+- [ssaring/sportstracker](https://github.com/ssaring/sportstracker) - SportsTracker is a desktop application for people who want to record and analyze their sporting activities.
+- [linouk23/NBA-Player-Movements](https://github.com/linouk23/NBA-Player-Movements) - Visualization of NBA games from raw SportVU data logs
+- [ThemeBoy/SportsPress](https://github.com/ThemeBoy/SportsPress) - An open source league statistics plugin for WordPress created by ThemeBoy. 
 
 ###  Tool 
 
