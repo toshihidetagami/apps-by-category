@@ -61,6 +61,15 @@
 
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 
+###  Diary
+
+- [maebert/jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file.
+- [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - Simple and secure journal app
+- [matthiasn/meins](https://github.com/matthiasn/meins) - a personal and smart journal 
+- [hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary) - A diary application optimized to user experience.
+- [DaxiaK/MyDiary](https://github.com/DaxiaK/MyDiary) - In the Movie "-your name.-" (君の名は。, 你的名字) , "My Diary" of android version.
+- [seokju-na/geeks-diary](https://github.com/seokju-na/geeks-diary) - TIL writing tool for programmer
+
 ###  E commerce
 
 - [opencart/opencart](https://github.com/opencart/opencart) - A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution. 
@@ -91,7 +100,49 @@
 
 ####  Education(Programming)
  
-- [fluidtrends/carmel](https://github.com/fluidtrends/carmel) - The Open Source Decentralized Tech Education Platform 
+- [fluidtrends/carmel](https://github.com/fluidtrends/carmel) - The Open Source Decentralized Tech Education Platform
+
+####  Education(Flashcards, Anki)
+
+- [dae/anki](https://github.com/dae/anki) - Anki for desktop computers
+- [kelciour/movies2anki](https://github.com/kelciour/movies2anki) - Convert movies with subtitles to watch them with Anki. Inspired by subs2srs
+- []() - 
+- [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) - A Python 3 Library for Generating Anki Decks
+- [dasfoo/delern](https://github.com/dasfoo/delern) - Spaced repetition learning system
+- [carllacan/ankimaker](https://github.com/carllacan/ankimaker) - Automatically generates Anki decks from many sources
+- [katspaugh/fluentcards](https://github.com/katspaugh/fluentcards) - Flashcards from dictionary look-ups 
+- [katspaugh/youtube-flashcards](https://github.com/katspaugh/youtube-flashcards) - Extract screenshots & audio clips from YouTube videos into Anki cards
+
+#### Education(Foreign language)
+
+- [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) - Official repository for main codebase for Tatoeba, a multilingual sentence/translation database.
+- [VocabHunter/VocabHunter](https://github.com/VocabHunter/VocabHunter) - VocabHunter helps learners of foreign languages find vital new vocabulary to study.
+- [softvar/translatr](https://github.com/softvar/translatr) - Translate to multiple languages at once
+- [potapenko/playphraseme-site](https://github.com/potapenko/playphraseme-site) - No description, website, or topics provided.
+- [tkrajina/10000sentences](https://github.com/tkrajina/10000sentences) - 10,000 sentences: an Android app to help you learn new words in foreign languages
+- [ncpierson/soundoftext-web](https://github.com/ncpierson/soundoftext-web) - Web App for soundoftext.com
+
+##### Foreign language(Pronunciation)
+
+- [fulldecent/formant-analyzer](https://github.com/fulldecent/formant-analyzer) - iOS application for finding formants in spoken sounds
+- [praat/praat](https://github.com/praat/praat) - Praat: Doing Phonetics By Computer
+
+##### Foreign language(Translation)
+
+- [wtetsu/mouse-dictionary](https://github.com/wtetsu/mouse-dictionary) - A blazing fast dictionary for Chrome/Firefox
+- [mdnsk/leo-translate](https://github.com/mdnsk/leo-translate) - Browser extension that translates words from English to Russian using LinguaLeo API
+- [rsimmons/voracious](https://github.com/rsimmons/voracious) - A video player for studying foreign languages (esp. Japanese)
+- [DynamicTranslator/DynamicTranslator](https://github.com/DynamicTranslator/DynamicTranslator) - Instant translation application for windows in .NET 
+
+##### Foreign language(Vocabulary)
+
+- [fpapado/ephemeral](https://github.com/fpapado/ephemeral) - A progressive web app for writing down words and translations as you encounter them.
+- [danielpclark/language_cards](https://github.com/danielpclark/language_cards) - Command line flash card game for learning languages. MVC, I18n, and YAML based. Japanese & Chinese flash cards available.
+
+##### Foreign language(Subtitle)
+
+- [kelciour/mpv-scripts](https://github.com/kelciour/mpv-scripts) - Experimental scripts for mpv video player, mostly for foreign language learning
+- [katspaugh/videobook](https://github.com/katspaugh/videobook) - Subtitles as a language learning tool 
 
 ###  Environment
 
@@ -100,6 +151,18 @@
 ###  ERP
 
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Open Source ERP built for the web
+
+###  Event
+
+- [GetTogetherComm/GetTogether](https://github.com/GetTogetherComm/GetTogether/) - Event manager for local community events
+
+###  Fashion
+
+- [jogboms/tailor_made](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine.
+- [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark 
+- [abhishekrana/DeepFashion](https://github.com/abhishekrana/DeepFashion) - Apparel detection using deep learning
+- [kang205/DVBPR](https://github.com/kang205/DVBPR) - Personalized Fashion Recommendation and Generation
+- [lolibrary/lolibrary](https://github.com/lolibrary/lolibrary) - The Lolita Fashion Library 
 
 ###  Food
 
@@ -121,10 +184,36 @@
 ###  Health
 
 - [openemr/openemr](https://github.com/openemr/openemr) - OpenEMR is the most popular open source electronic health records and medical practice management solution. 
+- [openmrs/openmrs-core](https://github.com/openmrs/openmrs-core) - OpenMRS API and web application code
 - [cpfair/tapiriik](https://github.com/cpfair/tapiriik) - tapiriik keeps your fitness in sync
 - [Flaque/quirk](https://github.com/Flaque/quirk) - A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
 - [ifmeorg/ifme](https://github.com/ifmeorg/ifme) - Open source app to share mental health experiences with loved ones
 - [petrk94/ownhealthrecord](https://github.com/petrk94/ownhealthrecord) - This repository is about the OwnHealthRecord Application Web App
+- [medic/medic](https://github.com/medic/medic) - This is the core repo for Medic Mobile's community health application framework, which you can use to build responsive, offline-first community health apps. 
+- [mraible/21-points](https://github.com/mraible/21-points) - 1-Points Health is an app you can use to monitor your health.
+- [ValorizeVidas/valorize-vidas](https://github.com/ValorizeVidas/valorize-vidas) - Sistema de prevenção ao suicídio
+- [citiususc/calendula](https://github.com/citiususc/calendula) - An Android assistant for personal medication management 
+- [thelittlewonder/reboot](https://github.com/thelittlewonder/reboot) - It's okay to take a break
+- [tholman/the-zen-zone](https://github.com/tholman/the-zen-zone) - Digital meditation aid 
+- [mindfulness-at-the-computer/mindfulness-at-the-computer](https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer) - Helps you stay mindful of your breathing while using your computer
+
+###  Home
+
+- [archilogic-com/3dio-js](https://github.com/archilogic-com/3dio-js) - JavaScript toolkit for interior apps 
+
+####  Home(Smart Home)
+
+- [home-assistant/home-assistant](https://github.com/home-assistant/home-assistant) - Open source home automation that puts local control and privacy first
+- [deepsyx/home-automation](https://github.com/deepsyx/home-automation) - Raspberry Pi 3 based home automation with NodeJS and React Native.
+- [blynkkk/blynk-server](https://github.com/blynkkk/blynk-server) - Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things.
+- [evancohen/smart-mirror](https://github.com/evancohen/smart-mirror) - The fairest of them all. A DIY voice controlled smart mirror with IoT integration. 
+- [kuoa/smart-connected-mirror](https://github.com/kuoa/smart-connected-mirror) - Displaying real time information on a mirrored surface.
+- [NielsMasdorp/Speculum-Android](https://github.com/NielsMasdorp/Speculum-Android) - Android application powering a magic mirror.
+- [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - A companion client for Home Assistant to handle sensors in multiple rooms.
+- [irext/irext](https://github.com/irext/irext) - Universal IR remote control library for household appliances 
+- [netbeast/dashboard](https://github.com/netbeast/dashboard) - Create IoT applications. Wire devices together regardless their brand or technology.
+- [zircleUI/smarthome-tutorial](https://github.com/zircleUI/smarthome-tutorial) - Tutorial: smart-home dashboard UI concept.
+- [dontsovcmc/waterius](https://github.com/dontsovcmc/waterius) - Передача показаний воды по Wi-Fi. Watermeter Wi-Fi transmitter. 
 
 ###  Human Resource
 
@@ -142,13 +231,20 @@
 
 ###  Map
 
-- [rCarto/osrm](https://github.com/rCarto/osrm) - Shortest Paths and Travel Time from OpenStreetMap with R
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps
+- [rCarto/osrm](https://github.com/rCarto/osrm) - Shortest Paths and Travel Time from OpenStreetMap with R
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - An open source route planning library and server using OpenStreetMap.
+- [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
+- [maptalks/maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
+- [geoserver/geoserver](https://github.com/geoserver/geoserver) - Official GeoServer repository
+- [OpenDroneMap/WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, extendable application and API for processing aerial imagery.
+- [maputnik/editor](https://github.com/maputnik/editor) - An open source visual editor for the 'Mapbox Style Specification' 
+- [noncomputable/AgentMaps](https://github.com/noncomputable/AgentMaps) - Make social simulations on interactive maps with Javascript! Agent-based modeling for the web.
 
 ###  Messaging 
 
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor. 
+- [vector-im/riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web. 
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [acani/Chats](https://github.com/acani/Chats) - Open-Source Messaging App
@@ -267,6 +363,12 @@
 - [sindresorhus/refined-twitter](https://github.com/sindresorhus/refined-twitter) - Browser extension that simplifies the Twitter interface and adds useful features
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 
+#### Family, Friend
+
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends and family.
+- [JacobEvelyn/friends](https://github.com/JacobEvelyn/friends) - Spend time with the people you care about. Introvert-tested. Extrovert-approved.
+- [ryanhowdy/fcms](https://github.com/ryanhowdy/fcms) - Family Connections - Create a private family website.
+
 ###  Sports
 
 - [freeCodeCamp/league-for-good](https://github.com/freeCodeCamp/league-for-good) - An open source sports league management tool
@@ -286,6 +388,14 @@
 - [alexanderepstein/Sandman](https://github.com/alexanderepstein/Sandman) - An Application Built With Late Night Developers In Mind 
 - [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder.
 - [claudiodangelis/qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+- [oliviertassinari/SplitMe](https://github.com/oliviertassinari/SplitMe) - Split expenses with friends.
+
+#### Tool(Note)
+
+- [aviaryan/SublimeNotebook](https://github.com/aviaryan/SublimeNotebook) - Make Sublime Text your favorite note taking/journal application
+- [aviaryan/VSCodeNotebook](https://github.com/aviaryan/VSCodeNotebook) - Use VS Code as a reliable note-taking/journal application
+- [schollz/gojot](https://github.com/schollz/gojot) - A command-line journal that is distributed and encrypted, making it easy to jot notes
+- [jendrikseipp/rednotebook](https://github.com/jendrikseipp/rednotebook) - RedNotebook is a cross-platform journal 
 
 ###  Travel
 
