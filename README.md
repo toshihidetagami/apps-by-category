@@ -106,7 +106,6 @@
 
 - [dae/anki](https://github.com/dae/anki) - Anki for desktop computers
 - [kelciour/movies2anki](https://github.com/kelciour/movies2anki) - Convert movies with subtitles to watch them with Anki. Inspired by subs2srs
-- []() - 
 - [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) - A Python 3 Library for Generating Anki Decks
 - [dasfoo/delern](https://github.com/dasfoo/delern) - Spaced repetition learning system
 - [carllacan/ankimaker](https://github.com/carllacan/ankimaker) - Automatically generates Anki decks from many sources
@@ -180,6 +179,43 @@
 ###  Game
 
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
+- [grantjenks/free-python-games](https://github.com/grantjenks/free-python-games) - Free Python Games
+- [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) - Chocolate Doom is a Doom source port that is minimalist and historically accurate. 
+
+####  Game(Minecraft)
+
+- [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders). 
+- [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
+- [PistonDevelopers/hematite](https://github.com/PistonDevelopers/hematite) - A simple Minecraft written in Rust with the Piston game engine
+
+####  Game(Board Game)
+
+- [ornicar/lila](https://github.com/ornicar/lila) - lichess.org: the forever free, adless and open source chess server
+- [junxiaosong/AlphaZero_Gomoku](https://github.com/junxiaosong/AlphaZero_Gomoku) - An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)
+- [SabakiHQ/Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go board and SGF editor for a more civilized age.
+- [gustaYo/vue-chess](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game use Vue , Nodejs, Webpack, Em6, Socket.io, Mongodb, Express
+
+####  Game(Puzzle)
+
+- [sharkdp/cube-composer](https://github.com/sharkdp/cube-composer) - A puzzle game inspired by functional programming
+
+####  Game(Shooting)
+
+- [tasdikrahman/spaceShooter](https://github.com/tasdikrahman/spaceShooter) - The classic retro game recreated using Pygame and python
+- [yvt/openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75
+- [etlegacy/etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is based on the source code of the Wolfenstein: Enemy Territory which was released under the GPLv3 license. 
+- [Armour/Multiplayer-FPS](https://github.com/Armour/Multiplayer-FPS) - A multiplayer first person shooter game based on Unity Game Engine
+
+####  Game(Tetris)
+
+- [LoveDaisy/tetris_game](https://github.com/LoveDaisy/tetris_game) - A Tetris Game with AI
+- [ytiurin/tetris](https://github.com/ytiurin/tetris) - The original TETRIS game simulator
+
+####  Game(RPG)
+
+- [justindujardin/angular-rpg](https://github.com/justindujardin/angular-rpg) - RPG game built with Typescript, Angular, ngrx/store and rxjs 
+- [LiamKenneth/ArchaicQuest](https://github.com/LiamKenneth/ArchaicQuest) - ArchaicQuest a Multi User Dungeon (MUD) - Text based MMORPG in C#
+- [ericoporto/fgmk](https://github.com/ericoporto/fgmk) - Retro RPG Game Maker
 
 ###  Health
 
@@ -267,6 +303,7 @@
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [danigb/tonal](https://github.com/danigb/tonal) - A functional music theory library for Javascript
 - [kennethreitz/pytheory](https://github.com/kennethreitz/pytheory) - Music Theory for Humans.
+- [makaroni4/guitar_bro](https://github.com/makaroni4/guitar_bro) - Guitar Bro – browser game that helps you learn notes on guitar
 
 ### Music player
 
@@ -336,6 +373,13 @@
 - [analogcode/Swift-Radio-Pro](https://github.com/analogcode/Swift-Radio-Pro) - Professional Radio Station App - now supports Swift 4 / Xcode 9!
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 
+###  Real Estate
+
+- [etewiah/property_web_builder](https://github.com/etewiah/property_web_builder) - The ultimate Ruby on Rails engine for creating real estate websites 
+- [camelaissani/loca](https://github.com/camelaissani/loca) - Open source real estate management 
+- [expresspixel/estatezilla](https://github.com/expresspixel/estatezilla) - A lightweight open-source Real Estate CMS
+- [emcasa/backend](https://github.com/emcasa/backend) - EmCasa Backend
+
 ###  Religion
 
 - [seven1m/onebody](https://github.com/seven1m/onebody) - private member portal for churches, built with Ruby on Rails
@@ -374,7 +418,16 @@
 - [freeCodeCamp/league-for-good](https://github.com/freeCodeCamp/league-for-good) - An open source sports league management tool
 - [ssaring/sportstracker](https://github.com/ssaring/sportstracker) - SportsTracker is a desktop application for people who want to record and analyze their sporting activities.
 - [linouk23/NBA-Player-Movements](https://github.com/linouk23/NBA-Player-Movements) - Visualization of NBA games from raw SportVU data logs
-- [ThemeBoy/SportsPress](https://github.com/ThemeBoy/SportsPress) - An open source league statistics plugin for WordPress created by ThemeBoy. 
+- [ThemeBoy/SportsPress](https://github.com/ThemeBoy/SportsPress) - An open source league statistics plugin for WordPress created by ThemeBoy.
+
+
+####  Sports(Fitness)
+- [brodeurlv/fastnfitness](https://github.com/brodeurlv/fastnfitness) - Fast n Fitness Repository
+- [lubusIN/laravel-gymie](https://github.com/lubusIN/laravel-gymie) - Gym & Club Management System
+- [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout and weight tracker written with Django
+- [ahmetb/personal-dashboard](https://github.com/ahmetb/personal-dashboard) - Programmatically collecting and reporting various stats about myself daily
+- [mazurio/bodyweight-fitness-android](https://github.com/mazurio/bodyweight-fitness-android) - Bodyweight Fitness (Android)
+- [mazurio/bodyweight-fitness-ios](https://github.com/mazurio/bodyweight-fitness-ios) - Bodyweight Fitness (iOS)
 
 ###  Tool 
 
@@ -389,6 +442,7 @@
 - [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder.
 - [claudiodangelis/qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [oliviertassinari/SplitMe](https://github.com/oliviertassinari/SplitMe) - Split expenses with friends.
+- [mostlyash/FileMasta](https://github.com/mostlyash/FileMasta) - A search application to explore, discover and share online files
 
 #### Tool(Note)
 
