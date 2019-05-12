@@ -95,7 +95,6 @@
 - [sakaiproject/sakai](https://github.com/sakaiproject/sakai) - Sakai is a freely available, feature-rich technology solution for learning, teaching, research and collaboration. 
 - [tsugiproject/tsugi](https://github.com/tsugiproject/tsugi) - Tsugi Admin, Developer, and Management Console (pls join the dev list) 
 - [elmsln/elmsln](https://github.com/elmsln/elmsln) - ELMS learning network - create and sustain innovation in education.
-- [empirical-org/Empirical-Core](https://github.com/empirical-org/Empirical-Core) - Empirical-Core is our web app for managing students, assigning activities, and viewing results. 
 - [jaltekruse/Free-Math](https://github.com/jaltekruse/Free-Math) - An offline React web application for managing digital math homework
 
 ####  Education(Programming)
@@ -165,7 +164,9 @@
 
 ###  Food
 
+- [tastyigniter/TastyIgniter](https://github.com/tastyigniter/TastyIgniter) - Powerful, yet easy to use, open source online food ordering, table reservation and restaurant management system
 - [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp) - Native version of Open Food Facts on Android - Coders & Decoders welcome
+- [openfoodfacts/openfoodfacts-ios](https://github.com/openfoodfacts/openfoodfacts-ios) - Native (Swift) version of Open Food Facts for iOS. Coders & Decoders welcome 
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce
 - [foodcoops/foodsoft](https://github.com/foodcoops/foodsoft) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling).
@@ -175,12 +176,23 @@
 - [freeCodeCamp/pantry-for-good](https://github.com/freeCodeCamp/pantry-for-good) - An open source food bank logistics and inventory management tool
 - [yunity/karrot-frontend](https://github.com/yunity/karrot-frontend) - Web application for organization of foodsaving groups worldwide - frontend code and central location for feature planning.
 - [gabrielilharco/snap-n-eat](https://github.com/gabrielilharco/snap-n-eat) - Food detection and recommendation with deep learning
+- [schollz/meanrecipe](https://github.com/schollz/meanrecipe) - Get a consensus recipe for your next meal.
+- [hmontazeri/is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan
+- [Murgio/Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food Image to Recipe with Deep Learning. 
+- [coolhwm/leshare-shop-wepy](https://github.com/coolhwm/leshare-shop-wepy) - 基于微信小程序的在线商城，采用wepy框架开发
+- [altosaar/food2vec](https://github.com/altosaar/food2vec) - no description
+- [nutritionfactsorg/daily-dozen-android](https://github.com/nutritionfactsorg/daily-dozen-android) - Keep track of the foods that Dr. Greger recommends in his NYT's best-selling book, How Not to Die with this Android app
+- [mr-karan/swiggy-analytics](https://github.com/mr-karan/swiggy-analytics) - Analyse your swiggy orders
+- [open-eats/OpenEats](https://github.com/open-eats/OpenEats) - Self Hosted Recipe Management App 
 
 ###  Game
 
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 - [grantjenks/free-python-games](https://github.com/grantjenks/free-python-games) - Free Python Games
-- [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) - Chocolate Doom is a Doom source port that is minimalist and historically accurate. 
+- [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) - Chocolate Doom is a Doom source port that is minimalist and historically accurate.
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine
+- [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2
+- [rage8885/OpenSC2K](https://github.com/rage8885/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
 
 ####  Game(Minecraft)
 
@@ -216,6 +228,11 @@
 - [justindujardin/angular-rpg](https://github.com/justindujardin/angular-rpg) - RPG game built with Typescript, Angular, ngrx/store and rxjs 
 - [LiamKenneth/ArchaicQuest](https://github.com/LiamKenneth/ArchaicQuest) - ArchaicQuest a Multi User Dungeon (MUD) - Text based MMORPG in C#
 - [ericoporto/fgmk](https://github.com/ericoporto/fgmk) - Retro RPG Game Maker
+
+####  Game(Programming)
+
+- [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox
+- [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
 
 ###  Health
 
