@@ -152,7 +152,18 @@
 
 ###  Event
 
+- [Attendize/Attendize](https://github.com/Attendize/Attendize) - Attendize is a free & open-source ticket selling and event management platform. 
+- [fossasia/open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
+- [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments) - Easy!Appointments - Open Source Appointment Scheduler
+- [indico/indico](https://github.com/indico/indico) - Indico - A complete event management system 
+- [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
+- [openSUSE/osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences.
+- [spatie/laravel-google-calendar](https://github.com/spatie/laravel-google-calendar) - Manage events on a Google Calendar
+- [pretalx/pretalx](https://github.com/pretalx/pretalx) - Conference planning tool: CfP, scheduling, speaker management
+- [alfio-event/alf.io](https://github.com/alfio-event/alf.io) - alf.io - The open source ticket reservation system
 - [GetTogetherComm/GetTogether](https://github.com/GetTogetherComm/GetTogether/) - Event manager for local community events
+- [eventespresso/event-espresso-core](https://github.com/eventespresso/event-espresso-core) - Event Espresso 4 Core for WordPress: Build an Event Ticketing Website Today! 
+
 
 ###  Fashion
 
@@ -161,6 +172,43 @@
 - [abhishekrana/DeepFashion](https://github.com/abhishekrana/DeepFashion) - Apparel detection using deep learning
 - [kang205/DVBPR](https://github.com/kang205/DVBPR) - Personalized Fashion Recommendation and Generation
 - [lolibrary/lolibrary](https://github.com/lolibrary/lolibrary) - The Lolita Fashion Library 
+
+###  Fintech
+
+- [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - Roll your own ad-free Mint clone for managing personal finances using publicly available APIs.
+- [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
+- [jeka-kiselyov/dimeshift](https://github.com/jeka-kiselyov/dimeshift) - the easiest way to track your expenses. Free. Open-source. Node.js
+- [range-of-motion/budget](https://github.com/range-of-motion/budget) - Get a grip on your finances.
+- [kresusapp/kresus](https://github.com/kresusapp/kresus) - Get rich, or die codin'
+- [aclindsa/moneygo](https://github.com/aclindsa/moneygo) - An accounting web application to track personal finances written in Go and React/Bootstrap
+
+####  Fintech(Trading)
+
+- [waditu/tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
+- [cgoldberg/ystockquote](https://github.com/cgoldberg/ystockquote) - Fetch stock quote data from Yahoo Finance
+- [waditu/tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
+- [mcdallas/wallstreet](https://github.com/mcdallas/wallstreet) - Real time stock and option data.
+- [addisonlynch/iexfinance](https://github.com/addisonlynch/iexfinance) - Python SDK for IEX Cloud and the Legacy Version 1.0 Investor's Exchange (IEX) Developer API 
+- [toomore/grs](https://github.com/toomore/grs) - 台灣上市上櫃股票價格擷取（Fetch Taiwan Stock Exchange data）含即時盤、台灣時間轉換、開休市判斷。
+- [JoinQuant/jqdatasdk](https://github.com/JoinQuant/jqdatasdk) - 简单易用的量化金融数据包(easy utility for getting financial market data of China)
+- [piquette/finance-go](https://github.com/piquette/finance-go) - Financial markets data library implemented in go. 
+- [JECSand/yahoofinancials](https://github.com/JECSand/yahoofinancials) - A powerful financial data module used for pulling data from Yahoo Finance. 
+- [wagenaartje/stocks.js](https://github.com/wagenaartje/stocks.js) - stocks.js is an easy-to-use stock market API for Javascript
+- [timkpaine/pyEX](https://github.com/timkpaine/pyEX) - Complete Python interface to IEX and IEX cloud APIs
+
+####  Fintech(Banking)
+
+- [OpenBankProject/OBP-API](https://github.com/OpenBankProject/OBP-API) - An open source RESTful API platform for banks that supports Open Banking, XS2A and PSD2 through access to accounts
+- [sebinsua/teller-cli](https://github.com/sebinsua/teller-cli) - Banking for your command line.
+- [bunqCommunity/bunqDesktop](https://github.com/bunqCommunity/bunqDesktop) - The unofficial, free and open source desktop application for the bunq API
+- [euforic/banking.js](https://github.com/euforic/banking.js) - The Missing API for Banks - Get all of your transactions and balances using node
+- [IBM/watson-banking-chatbot](https://github.com/IBM/watson-banking-chatbot) - A chatbot for banking that uses the Watson Assistant, Discovery, Natural Language Understanding and Tone Analyzer services.
+
+####  Fintech(Insurance)
+
+- [IBM/build-blockchain-insurance-app](https://github.com/IBM/build-blockchain-insurance-app) - Sample insurance application using Hyperledger Fabric
+- [asc-lab/dotnetcore-microservices-poc](https://github.com/asc-lab/dotnetcore-microservices-poc) - Very simplified insurance sales system made in a microservices architecture using .NET Core
+- [white127/QA-deep-learning](https://github.com/white127/QA-deep-learning) - tensorflow and theano cnn code for insurance QA(question Answer matching)
 
 ###  Food
 
@@ -277,6 +325,13 @@
 - [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol.
 - [globaleaks/GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - GlobaLeaks - The Open-Source Whistleblowing Software
 
+###  Kid
+
+- [robotopia-x/robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots!
+- [sromku/memory-game](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids
+- [ktonga/reactive-turtle](https://github.com/ktonga/reactive-turtle) - Scala and Akka for kids. A Functional Programming approach for the well known LOGO.
+- [fiorix/cat-o-licious](https://github.com/fiorix/cat-o-licious) - Cat game written in Go
+
 ###  Mail
 
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - An extensible desktop mail app built on the modern web.
@@ -351,6 +406,9 @@
 - [codeestX/GeekNews](https://github.com/codeestX/GeekNews) - A pure reading App based on Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide
 - [hrscy/TodayNews](https://github.com/hrscy/TodayNews) - Swift4 - 今日头条
 - [oubowu/OuNews](https://github.com/oubowu/OuNews) - 新闻阅读
+- [EventRegistry/event-registry-python](https://github.com/EventRegistry/event-registry-python) - Python package for API access to news articles and events in the Event Registry
+- [NewsCatchr/NewsCatchr](https://github.com/NewsCatchr/NewsCatchr) - FOSS Android News Reader App
+
 
 ####  News(Hacker News)
 
@@ -429,6 +487,35 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends and family.
 - [JacobEvelyn/friends](https://github.com/JacobEvelyn/friends) - Spend time with the people you care about. Introvert-tested. Extrovert-approved.
 - [ryanhowdy/fcms](https://github.com/ryanhowdy/fcms) - Family Connections - Create a private family website.
+- [impworks/bonsai](https://github.com/impworks/bonsai) - Personal family wiki engine and photoalbum
+- [Prisma-care/mobile-app](https://github.com/Prisma-care/mobile-app) - Color your memories
+- [neelkadia/WhereAreYou](https://github.com/neelkadia/WhereAreYou) - Real time location tracker using Android App & Firebase with Mapbox
+
+###  Podcast
+
+- [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
+- [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal 
+- [Sn8z/Poddr](https://github.com/Sn8z/Poddr) - Podcatcher made with Electron and Angular
+
+###  RSS
+
+- [swanson/stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
+- [SSilence/selfoss](https://github.com/SSilence/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
+- [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
+- [brentsimmons/NetNewsWire](https://github.com/brentsimmons/NetNewsWire) - Feed reader for macOS.
+- [miniflux/miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader
+- [mrgodhani/raven-reader](https://github.com/mrgodhani/raven-reader) - Simple RSS Reader app made using electron and vue.js
+- [akrennmair/newsbeuter](https://github.com/akrennmair/newsbeuter) - Newsbeuter is an open-source RSS/Atom feed reader for text terminals.
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 万物皆可 RSS
+- [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - An RSS, Atom and JSON Feed parser written in Swift
+- [everettjf/TomatoRead](https://github.com/everettjf/TomatoRead) - RSS Reader for iOS Developers
+- [feedbin/feedbin](https://github.com/feedbin/feedbin) - RSS Reader
+- [lwindolf/liferea](https://github.com/lwindolf/liferea) - Liferea (Linux Feed Reader), a news reader for GTK/GNOME
+- [nextcloud/news](https://github.com/nextcloud/news) - RSS/Atom feed reader
+- [jangernert/FeedReader](https://github.com/jangernert/FeedReader) - Modern desktop application designed to complement existing web-based RSS accounts.
+- [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.
+- [iamaziz/TermFeed](https://github.com/iamaziz/TermFeed) - A simple terminal feed reader.
 
 ###  Sports
 
