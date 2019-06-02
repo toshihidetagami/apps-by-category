@@ -10,7 +10,11 @@
 
 ###  Analytics
 
-- [usefathom/fathom](https://github.com/usefathom/fathom?ref=producthunt) - Fathom. Simple, trustworthy website analytics. Built with Golang & Preact. 
+- [usefathom/fathom](https://github.com/usefathom/fathom?ref=producthunt) - Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.
+
+###  Anime
+
+- [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - Updated every week: A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANN, ANILIST and KITSU.
 
 ###  Blockchain
 
@@ -70,6 +74,10 @@
 - [DaxiaK/MyDiary](https://github.com/DaxiaK/MyDiary) - In the Movie "-your name.-" (君の名は。, 你的名字) , "My Diary" of android version.
 - [seokju-na/geeks-diary](https://github.com/seokju-na/geeks-diary) - TIL writing tool for programmer
 
+###  Drawing
+
+- [wonderunit/storyboarder](https://github.com/wonderunit/storyboarder) - Storyboarder makes it easy to visualize a story as fast you can draw stick figures. 
+
 ###  E commerce
 
 - [opencart/opencart](https://github.com/opencart/opencart) - A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution. 
@@ -81,6 +89,7 @@
 - [snapjay/ngCart](https://github.com/snapjay/ngCart) - Really simple shopping cart for AngularJS 
 - [awesto/django-shop](https://github.com/awesto/django-shop) - A Django based shop system
 - [arjunsk/ionic-firebase-shopping-cart](https://github.com/arjunsk/ionic-firebase-shopping-cart) - HTML5 shopping cart using Firebase
+- [cezerin/cezerin](https://github.com/cezerin/cezerin) - Cezerin is React and Node.js based eCommerce platform.
 
 ###  Education
 
@@ -314,7 +323,8 @@
 - [irext/irext](https://github.com/irext/irext) - Universal IR remote control library for household appliances 
 - [netbeast/dashboard](https://github.com/netbeast/dashboard) - Create IoT applications. Wire devices together regardless their brand or technology.
 - [zircleUI/smarthome-tutorial](https://github.com/zircleUI/smarthome-tutorial) - Tutorial: smart-home dashboard UI concept.
-- [dontsovcmc/waterius](https://github.com/dontsovcmc/waterius) - Передача показаний воды по Wi-Fi. Watermeter Wi-Fi transmitter. 
+- [dontsovcmc/waterius](https://github.com/dontsovcmc/waterius) - Передача показаний воды по Wi-Fi. Watermeter Wi-Fi transmitter.
+- [maddox/magic-cards](https://github.com/maddox/magic-cards) - Queue music, play movies, or trigger events with RFID cards.
 
 ###  Human Resource
 
@@ -349,6 +359,13 @@
 - [maputnik/editor](https://github.com/maputnik/editor) - An open source visual editor for the 'Mapbox Style Specification' 
 - [noncomputable/AgentMaps](https://github.com/noncomputable/AgentMaps) - Make social simulations on interactive maps with Javascript! Agent-based modeling for the web.
 
+###  Media
+
+- [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
+- [ridhwaans/homehost](https://github.com/ridhwaans/homehost) - self-hosted, Netflix-like app made for streaming
+- [tidusjar/Ombi](https://github.com/tidusjar/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi!
+- [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+
 ###  Messaging 
 
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor. 
@@ -359,13 +376,35 @@
 - [FirebaseExtended/firechat](https://github.com/FirebaseExtended/firechat) - Real-time Chat powered by Firebase
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging server; backend in Go; Android, web command line clients; chatbots
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
-
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
+- [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities. 
 
 ####  Messaging(XMPP)
 - [siacs/Conversations](https://github.com/siacs/Conversations) - Conversations is an open source XMPP/Jabber client for the Android platform
 - [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala 
 - [kontalk/androidclient](https://github.com/kontalk/androidclient/) - Kontalk official Android client 
 - [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
+
+###  Movie
+
+- [salRoid/Filmy](https://github.com/salRoid/Filmy) - Material designed awesome movie app which is powered by tmdb.
+- [jadianes/spark-movie-lens](https://github.com/jadianes/spark-movie-lens) - An on-line movie recommender using Spark, Python Flask, and the MovieLens dataset
+- [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List 
+- [delight-im/MovieContentFilter](https://github.com/delight-im/MovieContentFilter) - Watch movies with the freedom (not) to filter
+- [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
+- [jansmolders86/mediacenterjs](https://github.com/jansmolders86/mediacenterjs) - A HTML/CSS/Javascript (NodeJS) based Media center
+- [alberanid/imdbpy](https://github.com/alberanid/imdbpy) - IMDbPY is a Python package useful to retrieve and manage the data of the IMDb movie database about movies, people, characters and companies
+- [StegSchreck/RatS](https://github.com/StegSchreck/RatS) - Movie Ratings Synchronization with Python
+- [SKempin/reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React 'The Movie Database' (TMDb) App
+- [iCHAIT/moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
+- [Dentrax/GMDB](https://github.com/Dentrax/GMDB) - GMDB is the ultra-simple, cross-platform Movie Library with Features (Search, Take Note, Watch Later, Like, Import, Learn, Instantly Torrent Magnet Watch)
+- [javascript-machine-learning/movielens-recommender-system-javascript](https://github.com/javascript-machine-learning/movielens-recommender-system-javascript) - Recommender System in JavaScript for the MovieLens Database
+- [EQuimper/MyOwnChallenge-RnMovieTinder](https://github.com/EQuimper/MyOwnChallenge-RnMovieTinder) - React-Native app for help you find movie to watch
+- [maksim-m/Popular-Movies-App](https://github.com/maksim-m/Popular-Movies-App) - A simple Android app, that helps you discover most popular and most rated movies. Project 1 & 2 of Udacity Android Developer Nanodegree.
+- [sjlu/popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics
+- [hitanshu-dhawan/PopCorn](https://github.com/hitanshu-dhawan/PopCorn) - Movies and TV Shows App powered by TMDb
+- [naholyr/show-time](https://github.com/naholyr/show-time) - Watch TV shows and movies with a simple CLI
+- [woxingxiao/GracefulMovies](https://github.com/woxingxiao/GracefulMovies) - 简影讯，简约精彩影讯。基于Retrofit+RxJava+Android Arch+DataBinding+Room的高颜值影讯app。简约，优雅，精彩，即看即走，已正式发布上线
 
 ###  Music
 
@@ -482,6 +521,10 @@
 - [sindresorhus/refined-twitter](https://github.com/sindresorhus/refined-twitter) - Browser extension that simplifies the Twitter interface and adds useful features
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 
+###  TV
+
+- [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Keep track of your favorite TV shows and movies on your Android devices.
+
 #### Family, Friend
 
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends and family.
@@ -493,9 +536,22 @@
 
 ###  Podcast
 
+- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Hacker to the 💚
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal 
 - [Sn8z/Poddr](https://github.com/Sn8z/Poddr) - Podcatcher made with Electron and Angular
+- [insidegui/PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar
+- [z-------------/CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
+- [podlove/podlove-publisher](https://github.com/podlove/podlove-publisher) - Podlove Podcast Publisher
+- [vitorgalvao/fog](https://github.com/vitorgalvao/fog) - Unofficial overcast.fm podcast app
+- [albertobeta/PodcastGenerator](https://github.com/albertobeta/PodcastGenerator) - Open Source Podcast Publishing Solution since 2006
+- [JJYing/Podcast-RSS-Editor](https://github.com/JJYing/Podcast-RSS-Editor) - A simple Podcast RSS editor in PHP
+- [chriskrycho/newrustacean.com](https://github.com/chriskrycho/newrustacean.com) - The official website for the New Rustacean podcast
+- [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
+- [umputun/rt-bot](https://github.com/umputun/rt-bot) - Мета-репо для движения "создай своего бота"
+- [lhcgoncalves/podbot](https://github.com/lhcgoncalves/podbot) - um podcast feito por robôs
+- [nerab/dropcaster](https://github.com/nerab/dropcaster) - Simple Podcast Publishing with Dropbox
+- [i3arnon/YouCast](https://github.com/i3arnon/YouCast) - Turn YouTube Channels into Subscribable Podcasts.
 
 ###  RSS
 
