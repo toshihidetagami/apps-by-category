@@ -14,7 +14,34 @@
 
 ###  Anime
 
+- [hummingbird-me/kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - The tools we use to build Kitsu, the coolest platform for anime and manga
+- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - Updated every week: A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANN, ANILIST and KITSU.
+- [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
+- [tofuness/Toshocat](https://github.com/tofuness/Toshocat) - Anime and Manga list app for desktop.
+- [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
+- [boyEstrogen/Anime-Girls-Holding-Programming-Books](https://github.com/boyEstrogen/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
+- [animenotifier/notify.moe](https://github.com/animenotifier/notify.moe) - Anime tracker, database and community.
+- [nicolasparada/nakama](https://github.com/nicolasparada/nakama) - The next social network for anime fans
+- [deeppomf/DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) - Decensoring Hentai with Deep Neural Networks
+- [xmcp/pakku.js](https://github.com/xmcp/pakku.js) - 拯救B站的弹幕体验！Make Bilibili Great Again!
+- [youyuge34/Anime-InPainting](https://github.com/youyuge34/Anime-InPainting) - An application tool of edge-connect, which can do anime inpainting and drawing.
+- [annict/annict](https://github.com/annict/annict) - The platform for anime addicts built with Rails 5.2 and Vue.js 2.6.
+- [aviaryan/Kissanime-Batch-Downloader](https://github.com/aviaryan/Kissanime-Batch-Downloader) - KissAnime, KissCartoon and KissAsian batch links generator script
+- [AniDevTwitter/animeopenings](https://github.com/AniDevTwitter/animeopenings) - Displays random anime openings
+- [Kylart/KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans
+- [Pizzacus/satania.moe](https://github.com/Pizzacus/satania.moe) - Satania IS the BEST waifu, no really, she is, if you don't believe me, this website will convince you
+- [vn-ki/anime-downloader](https://github.com/vn-ki/anime-downloader) - A simple but powerful anime downloader and streamer.
+- [z411/trackma](https://github.com/z411/trackma) - Open multi-site list manager for Unix-like systems. (ex-wMAL)
+- [jikan-me/jikan](https://github.com/jikan-me/jikan) - Unofficial MyAnimeList PHP+REST API which provides functions other than the official API
+- [anilogia/animedb](https://github.com/anilogia/animedb) - 約100年に渡るアニメ作品リストデータベース
+- [dragonzurfer/moe](https://github.com/dragonzurfer/moe) - A command line tool for all things anime
+- [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API V2 GraphQL Documentation
+- [YePpHa/crunchyroll-html5](https://github.com/YePpHa/crunchyroll-html5) - A fully fledged HTML5 player for Crunchyroll.
+- [Aditya-Khadilkar/Face-tracking-with-Anime-characters](https://github.com/Aditya-Khadilkar/Face-tracking-with-Anime-characters) - Hello! I have made a Python project where YURI from the game doki doki literature club accesses the webcam and stares directly into the players soul.
+- [Drutol/MALClient](https://github.com/Drutol/MALClient) - Not so small client app for Myanimelist.net - Windows 10 UWP & Android
+- [tofuness/Toshocat](https://github.com/tofuness/Toshocat) - Anime and Manga list app for desktop.
+- [Tsuk1ko/CQ-picfinder-robot](https://github.com/Tsuk1ko/CQ-picfinder-robot) - 基于 saucenao 的搜图机器人
 
 ###  Blockchain
 
@@ -28,7 +55,8 @@
 - [jcc/blog](https://github.com/jcc/blog) - PJ Blog is an open source blog built with Laravel and Vue.js.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience 
 - [hibiken/stories](https://github.com/hibiken/stories) - Medium clone built with Ruby on Rails 
-- [writeas/writefreely](https://github.com/writeas/writefreely) - A simple, federated blogging platform. Written in Go. 
+- [writeas/writefreely](https://github.com/writeas/writefreely) - A simple, federated blogging platform. Written in Go.
+- [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 一款现代化的个人独立博客系统
 
 ###  Browser
 
@@ -96,7 +124,11 @@
 - [studentinsights/studentinsights](https://github.com/studentinsights/studentinsights) - We work within school communities to make open, secure, student-centered data systems.
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki on Android
 - [dae/anki](https://github.com/dae/anki) - Anki for desktop computers
-- [oppia/oppia](https://github.com/oppia/oppia) - Tool for collaboratively building interactive lessons. 
+- [oppia/oppia](https://github.com/oppia/oppia) - Tool for collaboratively building interactive lessons.
+
+#### Education(Science)
+
+- [kadinzhang/Periodicity](https://github.com/kadinzhang/Periodicity) - A modern, adaptable periodic table
 
 #### Education(LMS)
 - [edx/edx-platform](https://github.com/edx/edx-platform) - The Open edX platform, the software that powers edX! 
@@ -109,6 +141,7 @@
 ####  Education(Programming)
  
 - [fluidtrends/carmel](https://github.com/fluidtrends/carmel) - The Open Source Decentralized Tech Education Platform
+- [uccser/cs-unplugged](https://github.com/uccser/cs-unplugged) - CS Unplugged is a collection of free teaching material that teaches Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around.
 
 ####  Education(Flashcards, Anki)
 
@@ -290,6 +323,7 @@
 
 - [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
+- [ASPP/pelita](https://github.com/ASPP/pelita) - Actor-based Toolkit for Interactive Language Education in Python
 
 ###  Health
 
@@ -365,6 +399,10 @@
 - [ridhwaans/homehost](https://github.com/ridhwaans/homehost) - self-hosted, Netflix-like app made for streaming
 - [tidusjar/Ombi](https://github.com/tidusjar/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi!
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+- [pastapojken/Myflix](https://github.com/pastapojken/Myflix) - Myflix, a Netflix clone!
+- [XaF/TraktForVLC](https://github.com/XaF/TraktForVLC) - Automatically trakt.tv what you're watching on VLC
+- [amilajack/popcorn-time-desktop](https://github.com/amilajack/popcorn-time-desktop) - A Modern Popcorn Time Client
+- [mediathekview/mediathekviewweb](https://github.com/mediathekview/mediathekviewweb) - Eine Weboberfläche als Alternative zum Java-Client
 
 ###  Messaging 
 
@@ -401,10 +439,12 @@
 - [javascript-machine-learning/movielens-recommender-system-javascript](https://github.com/javascript-machine-learning/movielens-recommender-system-javascript) - Recommender System in JavaScript for the MovieLens Database
 - [EQuimper/MyOwnChallenge-RnMovieTinder](https://github.com/EQuimper/MyOwnChallenge-RnMovieTinder) - React-Native app for help you find movie to watch
 - [maksim-m/Popular-Movies-App](https://github.com/maksim-m/Popular-Movies-App) - A simple Android app, that helps you discover most popular and most rated movies. Project 1 & 2 of Udacity Android Developer Nanodegree.
+- [klaussinani/moviebox](https://github.com/klaussinani/moviebox) - Machine learning movie recommending system
 - [sjlu/popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics
 - [hitanshu-dhawan/PopCorn](https://github.com/hitanshu-dhawan/PopCorn) - Movies and TV Shows App powered by TMDb
 - [naholyr/show-time](https://github.com/naholyr/show-time) - Watch TV shows and movies with a simple CLI
 - [woxingxiao/GracefulMovies](https://github.com/woxingxiao/GracefulMovies) - 简影讯，简约精彩影讯。基于Retrofit+RxJava+Android Arch+DataBinding+Room的高颜值影讯app。简约，优雅，精彩，即看即走，已正式发布上线
+- [jianxiaoBai/douban](https://github.com/jianxiaoBai/douban) - React-native 仿豆瓣电影 app
 
 ###  Music
 
@@ -524,6 +564,17 @@
 ###  TV
 
 - [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Keep track of your favorite TV shows and movies on your Android devices.
+- [hypeapps/episodie](https://github.com/hypeapps/episodie) - Episodie is a TV show time tracker app with unusual design written in kotlin and clean architecture approach.
+- [SickChill/SickChill](https://github.com/SickChill/SickChill) - Less rage, more chill.
+- [oddnetworks/oddworks](https://github.com/oddnetworks/oddworks) - [MIRROR]
+- [TV-Rename/tvrename](https://github.com/TV-Rename/tvrename) - Organise your TV videos with ease
+- [SickGear/SickGear](https://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
+- [SiCKRAGE/SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE) - Mirror of OFFICIAL SiCKRAGE
+- [jenly1314/KingTV](https://github.com/jenly1314/KingTV) - 高仿全民直播（全民TV），项目采用 MVP + RXJava + Retrofit + OKHttp + Material Design + Dagger2 + Base + Glide + GreenDao构建。
+- [hiquest/tvcl](https://github.com/hiquest/tvcl) - A simple terminal show tracker
+- [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+- [PopcornTimeTV/PopcornTimeTV](https://github.com/PopcornTimeTV/PopcornTimeTV) - Popcorn Time for Apple TV 4, iPhone and iPad
+- [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 
 #### Family, Friend
 
@@ -609,7 +660,10 @@
 - [aviaryan/SublimeNotebook](https://github.com/aviaryan/SublimeNotebook) - Make Sublime Text your favorite note taking/journal application
 - [aviaryan/VSCodeNotebook](https://github.com/aviaryan/VSCodeNotebook) - Use VS Code as a reliable note-taking/journal application
 - [schollz/gojot](https://github.com/schollz/gojot) - A command-line journal that is distributed and encrypted, making it easy to jot notes
-- [jendrikseipp/rednotebook](https://github.com/jendrikseipp/rednotebook) - RedNotebook is a cross-platform journal 
+- [jendrikseipp/rednotebook](https://github.com/jendrikseipp/rednotebook) - RedNotebook is a cross-platform journal
+
+#### Tool(Productivity)
+- [SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol/) - Mac app to block your own access to distracting websites etc for a predetermined period of time.
 
 ###  Travel
 
