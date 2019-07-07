@@ -58,6 +58,10 @@
 - [writeas/writefreely](https://github.com/writeas/writefreely) - A simple, federated blogging platform. Written in Go.
 - [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 一款现代化的个人独立博客系统
 
+###  Book
+
+- [BasioMeusPuga/Lector](https://github.com/BasioMeusPuga/Lector) - Qt based ebook reader
+
 ###  Browser
 
 - [atlas-engineer/next](https://github.com/atlas-engineer/next) - Next Browser - Be Productive. 
@@ -86,12 +90,34 @@
 - [arauchfuss/Simple-Comic](https://github.com/arauchfuss/Simple-Comic) - OS X comic viewer
 - [swisspol/ComicFlow](https://github.com/swisspol/ComicFlow) - Full source code for the ComicFlow comic reader for iPad
 - [darwin/cmx.js](https://github.com/darwin/cmx.js) - [prototype] A library/markup for building xkcd-style comic strips
-- [Xonshiz/comic-dl](https://github.com/Xonshiz/comic-dl) - Comic-dl is a command line tool to download manga and comics from various comic and manga sites. 
+- [Xonshiz/comic-dl](https://github.com/Xonshiz/comic-dl) - Comic-dl is a command line tool to download manga and comics from various comic and manga sites.
+- [mamaral/xkcd-Open-Source](https://github.com/mamaral/xkcd-Open-Source) - A free and open source xkcd comic reader for iOS.
 - [android-cjj/ComicReader](https://github.com/android-cjj/ComicReader) - 漫画App
+- [kanasimi/work_crawler](https://github.com/kanasimi/work_crawler) - 小说漫画下载工具
+- [Tenma-Server/Tenma](https://github.com/Tenma-Server/Tenma) - Comic book server with in-browser reader
+- [happypandax/happypandax](https://github.com/happypandax/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
+- [tasdikrahman/xkcd-dl](https://github.com/tasdikrahman/xkcd-dl) - Download ALL xkcd's which have been uploaded till date. Ever!
+- [Difegue/LANraragi](https://github.com/Difegue/LANraragi) - Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.
+- [mgsisk/webcomic](https://github.com/mgsisk/webcomic) - Comic publishing power for the web. Turn your WordPress-powered site into a comic publishing platform with Webcomic.
+- [Twoure/KissNetwork.bundle](https://github.com/Twoure/KissNetwork.bundle) - Plex Channel to view Anime, Asian Drama, Cartoons, Manga & Comics from KissAnime, KissAsian, KissCartoon, KissManga & ReadComicOnline
+- [LinYaoTian/Q_Comic](https://github.com/LinYaoTian/Q_Comic) - 一款仿知音漫客的漫画APP
+- [hubbcaps/gazee](https://github.com/hubbcaps/gazee) - A WebApp for reading your comics. Built in Python on top of CherryPy.
+- [feilongfl/Cimoc](https://github.com/feilongfl/Cimoc) - Android 平台在线漫画阅读器
+- [jodal/comics](https://github.com/jodal/comics) - comics is a web comics aggregator
+- [Rabtman/AcgClub](https://github.com/Rabtman/AcgClub) - 一款纯粹的ACG聚合类App
+- [kanryu/quickviewer](https://github.com/kanryu/quickviewer) - A image/comic viewer application for Windows, Mac and Linux, it can show images very fast
+
 
 ###  Curation
 
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+
+###  Dating
+
+- [pH7Software/pH7-Social-Dating-CMS](https://github.com/pH7Software/pH7-Social-Dating-CMS) - pH7Builder (formerly pH7CMS) 👫 is a Professional & Open Source Social Dating CMS written in OOP PHP with the MVC pattern.
+- [catalinmiron/react-native-dating-app](https://github.com/catalinmiron/react-native-dating-app) - Dating app - Exponent and React Native
+- [hfreire/get-me-a-date](https://github.com/hfreire/get-me-a-date) - Help me get a 💘 date tonight
+- [mayukh18/BlindChat](https://github.com/mayukh18/BlindChat) - a facebook messenger bot that allows users to chat with other people on facebook anonymously
 
 ###  Diary
 
@@ -104,7 +130,8 @@
 
 ###  Drawing
 
-- [wonderunit/storyboarder](https://github.com/wonderunit/storyboarder) - Storyboarder makes it easy to visualize a story as fast you can draw stick figures. 
+- [wonderunit/storyboarder](https://github.com/wonderunit/storyboarder) - Storyboarder makes it easy to visualize a story as fast you can draw stick figures.
+- [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
 
 ###  E commerce
 
@@ -125,10 +152,18 @@
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki on Android
 - [dae/anki](https://github.com/dae/anki) - Anki for desktop computers
 - [oppia/oppia](https://github.com/oppia/oppia) - Tool for collaboratively building interactive lessons.
+- [LukeStonehm/LogicalDefence](https://github.com/LukeStonehm/LogicalDefence) - An open source Android app that displays a list of the logical fallacies that haunt every rationalists world
+- [edx/edx-app-android](https://github.com/edx/edx-app-android) - The Open EdX mobile app for Android!
 
 #### Education(Science)
 
 - [kadinzhang/Periodicity](https://github.com/kadinzhang/Periodicity) - A modern, adaptable periodic table
+- [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
+- [google/science-journal-ios](https://github.com/google/science-journal-ios) - Use the sensors in your mobile devices to perform science experiments.
+
+####  Education(Math)
+
+- [parnold-x/nasc](https://github.com/parnold-x/nasc) - http://parnold-x.github.io/nasc/
 
 #### Education(LMS)
 - [edx/edx-platform](https://github.com/edx/edx-platform) - The Open edX platform, the software that powers edX! 
@@ -137,11 +172,28 @@
 - [tsugiproject/tsugi](https://github.com/tsugiproject/tsugi) - Tsugi Admin, Developer, and Management Console (pls join the dev list) 
 - [elmsln/elmsln](https://github.com/elmsln/elmsln) - ELMS learning network - create and sustain innovation in education.
 - [jaltekruse/Free-Math](https://github.com/jaltekruse/Free-Math) - An offline React web application for managing digital math homework
+- [nekomy/nekomy-platform](https://github.com/nekomy/nekomy-platform) - An open source LMS (eLearning platform) for MOOCs and online courses (like Tutellus.com or Udemy.com with extra features).
+- [hrshadhin/school-management-system](https://github.com/hrshadhin/school-management-system) - Another School Management System
+- [Jasig/uPortal](https://github.com/Jasig/uPortal) - Enterprise open source portal built by and for the higher education community.
+- [elmsln/elmsln](https://github.com/elmsln/elmsln) - ELMS learning network - create and sustain innovation in education. Dream with us!
 
 ####  Education(Programming)
  
 - [fluidtrends/carmel](https://github.com/fluidtrends/carmel) - The Open Source Decentralized Tech Education Platform
 - [uccser/cs-unplugged](https://github.com/uccser/cs-unplugged) - CS Unplugged is a collection of free teaching material that teaches Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around.
+- [education/classroom](https://github.com/education/classroom) - GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+- [autolab/Autolab](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming assignments.
+- [Submitty/Submitty](https://github.com/Submitty/Submitty) - Homework Submission, Automated Grading, and TA grading system.
+- [okpy/ok](https://github.com/okpy/ok) - ok.py supports programming projects by running tests, tracking progress, and assisting in debugging.
+
+####  Education(Programming for kids)
+
+- [code-dot-org/code-dot-org](https://github.com/code-dot-org/code-dot-org) - The code powering code.org and studio.code.org
+- [uccser/cs-field-guide](https://github.com/uccser/cs-field-guide) - An online interactive resource/textbook for high school students learning about computer science.
+- [ktonga/reactive-turtle](https://github.com/ktonga/reactive-turtle) - Scala and Akka for kids. A Functional Programming approach for the well known LOGO.
+- [uccser/cs-unplugged](https://github.com/uccser/cs-unplugged) - CS Unplugged is a collection of free teaching material that teaches Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around.
+- [uccser/cs-field-guide](https://github.com/uccser/cs-field-guide) - An online interactive resource/textbook for high school students learning about computer science.
+- [cool-RR/PythonTurtle](https://github.com/cool-RR/PythonTurtle) - A learning environment for Python suited for beginners and children, inspired by Logo.
 
 ####  Education(Flashcards, Anki)
 
@@ -191,6 +243,7 @@
 ###  ERP
 
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Open Source ERP built for the web
+- [openeducat/openeducat_erp](https://github.com/openeducat/openeducat_erp) - Comprehensive Open Source ERP for Educational Institutes
 
 ###  Event
 
@@ -321,9 +374,15 @@
 
 ####  Game(Programming)
 
+- [olistic/warriorjs](https://github.com/olistic/warriorjs) - An exciting game of programming and Artificial Intelligence
 - [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
+- [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
 - [ASPP/pelita](https://github.com/ASPP/pelita) - Actor-based Toolkit for Interactive Language Education in Python
+- [flukeout/css-diner](https://github.com/flukeout/css-diner/issues) - CSS Diner
+- [thomaspark/gridgarden](https://github.com/thomaspark/gridgarden/) - A game for learning CSS grid layout
+- [sharkdp/cube-composer](https://github.com/sharkdp/cube-composer) - A puzzle game inspired by functional programming
+- [screeps/screeps](https://github.com/screeps/screeps) - A standalone server for programming game Screeps
 
 ###  Health
 
